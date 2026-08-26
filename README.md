@@ -5,7 +5,7 @@
 
 `Meeting transcript -> structured execution intelligence`
 
-LIVE DEMO: `LIVE_APP_URL_HERE`  
+LIVE DEMO: https://actionos-meeting-ai.streamlit.app
 SCREENSHOT: `ADD_SCREENSHOT_HERE`
 
 ## Product Overview
