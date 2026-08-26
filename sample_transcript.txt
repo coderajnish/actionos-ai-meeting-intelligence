@@ -1,0 +1,13 @@
+Nina: Thanks everyone. We have to lock scope for the June launch and align engineering and marketing.
+Rohit: Decision one, we will ship onboarding v1 with email plus Google sign-in only. SSO moves to the next release.
+Maya: I can finish API contract updates by Tuesday EOD and share with frontend.
+Arjun: I'm blocked on database migration because I still do not have production credentials from DevOps.
+Leena: I'll draft the launch email and social copy by next Monday. Also decision two, pricing page keeps the current starter tier for launch.
+Nina: Great. Someone needs to prepare the customer FAQ and support macros.
+Rohit: I will own analytics events mapping and complete it by Friday.
+Maya: We also need QA regression on signup, billing, and onboarding.
+Leena: I can coordinate QA checklist, but I need final feature list first.
+Arjun: If credentials arrive today, migration dry run can be done by Thursday. Otherwise this becomes a launch risk.
+Nina: Let's set priority high on migration and analytics. Marketing copy is medium. FAQ should be medium too.
+Rohit: I can review the FAQ draft but cannot write the whole thing.
+Maya: Follow-up request, please create a shared tracker with owners and due dates after this call.
