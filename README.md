@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_STREAMLIT_URL_HERE">
+  <a href="https://actionos-meeting-ai.streamlit.app">
     <img src="https://img.shields.io/badge/LIVE_APP-Launch_ActionOS-00C7B7?style=for-the-badge&logo=streamlit&logoColor=white">
   </a>
   <img src="https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white">
