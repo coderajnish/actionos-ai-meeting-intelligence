@@ -13,6 +13,7 @@
 
 > SYSTEM STATUS: ONLINE
 > BUILD: MirAI School of Technology — Capstone Project #20
+> LIVE APP LINK: https://actionos-meeting-ai.streamlit.app
 ```
 
 <p align="center">
